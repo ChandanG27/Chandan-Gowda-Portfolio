@@ -9,7 +9,7 @@ I am Chandan, a passionate software developer interested in web development, mac
 ## Projects
 
 -  My personal portfolio website showcasing my skills and projects.
--  
+
 ## Skills
 
 - HTML/CSS
@@ -26,6 +26,6 @@ Feel free to reach out to me at [chandangowda77@outlook.com](mailto:chandangowda
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/chandan)](https://www.linkedin.com/in/chandan-gowda-365b9226a)
+- [LinkedIn]([https://www.linkedin.com/in/chandan-gowda-365b9226a)
 - [GitHub](https://github.com/chandanG27)
 - [Portfolio Website]()
