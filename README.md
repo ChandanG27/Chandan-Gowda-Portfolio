@@ -8,24 +8,24 @@ I am Chandan, a passionate software developer interested in web development, mac
 
 ## Projects
 
-- [Project 1: Portfolio Website](link-to-project-1): My personal portfolio website showcasing my skills and projects.
-- [Project 2: Machine Learning Model](link-to-project-2): A machine learning model predicting housing prices.
-- [Project 3: Web Application](link-to-project-3): A web application for managing tasks.
-
+-  My personal portfolio website showcasing my skills and projects.
+-  
 ## Skills
 
 - HTML/CSS
 - JavaScript
 - Python
+- java
+- c/c++
 - React.js
 - TensorFlow
 
 ## Contact Me
 
-Feel free to reach out to me at [email@example.com](mailto:email@example.com) for collaboration or inquiries.
+Feel free to reach out to me at [chandangowda77@outlook.com](mailto:chandangowda77@outlook.com) for collaboration or inquiries.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/chandan)
-- [GitHub](https://github.com/chandan)
-- [Portfolio Website](https://chandan.dev)
+- [LinkedIn]([https://www.linkedin.com/in/chandan)](https://www.linkedin.com/in/chandan-gowda-365b9226a)
+- [GitHub](https://github.com/chandanG27)
+- [Portfolio Website]()
